@@ -1,0 +1,67 @@
+// // header
+
+.small-show {
+    display: none;
+}
+
+.nav div.small-menu>a {
+    font-size: 13px;
+}
+
+.large-menu>a {
+    float: left;
+}
+
+.main-nav {
+    display: inline-block;
+    width: 60%;
+}
+
+.main-nav li a {
+    text-decoration: none;
+    margin: 0 10px;
+    text-transform: uppercase;
+    color: #707070;
+    letter-spacing: 1.2px;
+    padding-bottom: 20px;
+    font-size: 15px;
+}
+
+.main-nav li a>span {
+    display: none;
+}
+
+//main-flow
+
+.main-flow .container .items {
+    justify-items: center;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: auto;
+    grid-gap: 2rem;
+    width: 90%;
+    margin: 0px auto;
+}
+
+//info
+
+section.info .container .items {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: auto;
+    grid-gap: 15px;
+}
+
+//terms
+
+.container .rows {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto;
+    grid-gap: 15px;
+}
+
+//footer
+.footer .container ul li span {
+    display: inline-block;
+}

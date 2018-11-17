@@ -1,0 +1,356 @@
+// header
+
+header {
+    position: relative;
+    height: 115px;
+
+    nav {
+        width: 100%;
+        position: fixed;
+        background: #ffffff;
+        text-align: center;
+    }
+}
+
+nav div.small-menu {
+    display: block;
+    max-width: 1200px;
+    margin: 0px auto;
+    text-align: right;
+    line-height: 2.5rem;
+}
+
+nav div.small-menu>a {
+    margin-right: 1.5rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+    font-size: 10px;
+}
+
+.large-menu>a {
+    float: right;
+    margin-right: 2rem;
+}
+
+.large-menu {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0px auto;
+    padding: 15px;
+}
+
+.large-menu a>img {
+    max-width: 100%;
+    height: 29px;
+}
+
+.navIconNavBar {
+    float: right;
+    display: none;
+}
+
+.navIconNavBar>a {
+    font-size: 25px;
+    color: #ee1c25;
+}
+
+.main-nav {
+    list-style-type: none;
+    margin: 10px;
+    display: none;
+}
+
+.main-nav li {
+    float: left;
+}
+
+.main-nav li a {
+    text-decoration: none;
+    margin: 0 28px;
+    text-transform: uppercase;
+    color: #707070;
+    letter-spacing: 1.2px;
+    padding-bottom: 20px;
+}
+
+nav.small-show {
+    position: fixed;
+}
+
+nav.small-show .icon {
+    width: 10%;
+    position: absolute;
+    top: 3.75rem;
+    font-size: 2rem;
+}
+
+
+//top-banner
+
+.main {
+    width: 100%;
+}
+
+.top-banner {
+    width: 100%;
+    padding: 60px 0;
+    background: #fbfbfb;
+}
+
+.top-banner .container {
+    max-width: 1200px;
+    margin: 0px auto;
+    padding: 0 15px;
+}
+
+.top-banner .container h1 {
+    text-align: center;
+    font-size: 2rem;
+    color: #ee1c25;
+    font-weight: bold
+}
+
+.container .heading {
+    padding: 10px 0;
+    margin: 8px;
+}
+
+.img-slider {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 20px 0;
+}
+
+.img-container picture {
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 12px;
+}
+
+.img-container picture>img {
+    max-width: 75%;
+    height: auto;
+    width: 70px;
+    padding-top: 5px;
+}
+
+.img-container p {
+    float: left;
+    text-align: initial;
+    line-height: 15px;
+    font-size: 12px;
+    margin-top: 0px;
+}
+
+// main-flow
+
+.main-flow {
+    width: 100%;
+    padding: 65px 0;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../assests/images/simcard-back.jpg') center no-repeat;
+    background-size: cover;
+}
+
+.main-flow .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.main-flow .container h2 {
+    text-align: center;
+    color: #fff;
+    font-size: 2rem;
+    margin: 10px 0;
+    padding: 10px 0;
+    font-weight: bold;
+}
+
+.main-flow .container .items {
+    justify-items: center;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: auto;
+    grid-gap: 2rem;
+    width: 90%;
+    margin: 0px auto;
+}
+
+.main-flow .container .items>.item {
+    display: flex;
+    background: #ee1c25;
+    flex-direction: column;
+    height: 300px;
+    width: 250px;
+    color: #fff;
+    align-items: center;
+    cursor: pointer;
+}
+
+.main-flow .container .items .item i {
+    font-size: 50px;
+}
+
+.main-flow .container .items .item p {
+    font-size: 17px;
+    padding-top: 16px;
+}
+
+.main-flow .container .items .item p.content {
+    font-size: 17px;
+    font-weight: 400;
+    text-align: center;
+    margin: 55px 0;
+}
+
+.btn {
+    transition: all 0.7s ease;
+    cursor: pointer;
+    font-weight: 100;
+    display: inline-block;
+    text-align: center;
+    letter-spacing: .05em;
+    text-decoration: none;
+    vertical-align: middle;
+    white-space: nowrap;
+    font-size: 12px;
+    padding: 8px 12px;
+    min-width: 131px;
+    line-height: 1.6;
+    max-width: 80%;
+    border-radius: 0;
+    background: #E60100;
+    color: #fff;
+}
+
+// info
+
+section.info {
+    width: 100%;
+    padding: 65px 0;
+}
+
+section.info .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+section.info .container h2 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+section.info .container .items {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: auto;
+    grid-gap: 15px;
+}
+
+section.info .container .items .box-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+    font-size: 18px;
+}
+
+.box-item:nth-child(2n+1) {
+    background: #7C4D9E;
+}
+
+.box-item:nth-child(2n) {
+    background: #4A2E5E;
+}
+
+section.info .container .items .box-item .box-heading {
+    margin: 12px 0;
+    padding: 10px 0;
+}
+
+section.info .container .items .box-item p {
+    margin: 30px;
+}
+
+//terms
+
+section.terms {
+    width: 100%;
+    padding: 65px 0;
+    background: #e8e8e8;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.container h3 {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 10px;
+    padding: 10px 0;
+    color: #ee1c25;
+}
+
+.container .rows {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: auto;
+    grid-gap: 15px;
+}
+
+.container .rows .row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.container .rows .row picture img {
+    max-width: 85%;
+}
+
+.container .rows .row p {
+    margin: 15px;
+    padding: 10px 0;
+}
+
+//footer
+.footer {
+    width: 100%;
+    padding: 65px 0;
+    background: #ffd3d3;
+}
+
+.footer .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.footer .container ul {
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: auto;
+    color: #f13c43;
+    text-decoration: underline;
+}
+
+.footer .container ul li {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.footer .container ul li span {
+    display: none;
+}

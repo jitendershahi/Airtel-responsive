@@ -1,0 +1,280 @@
+   <!-- <div class="main">
+        <section class="top-banner">
+            <div class="container">
+                <h1 class="heading">Welcome to the World of Airtel Postpaid</h1>
+                <div class="img-slider">
+                    <div class="img-container">
+                        <picture>
+                            <img class="amazon-prime" src="./assests/images/icons/amazon-prime.png" alt="">
+                        </picture>
+                        <p class="img-content hideBig">
+                            1 Year Amazon Prime
+                            <br> worth Rs.999*
+                        </p>
+                    </div>
+                    <div class="img-container">
+                        <picture>
+                            <img class="amazon-prime" src="./assests/images/icons/amazon-prime.png" alt="">
+                        </picture>
+                        <p class="img-content hideBig">
+                            3 Months Netflix
+                            <br> worth Rs.1500*
+                        </p>
+                    </div>
+                    <div class="img-container">
+                        <picture>
+                            <img class="amazon-prime" src="./assests/images/icons/amazon-prime.png" alt="">
+                        </picture>
+                        <p class="img-content hideBig">
+                            4G connection
+                            <br> +Data Rollover
+                        </p>
+                    </div>
+                    <div class="img-container">
+                        <picture>
+                            <img class="amazon-prime" src="./assests/images/icons/amazon-prime.png" alt="">
+                        </picture>
+                        <p class="img-content hideBig">
+                            Handset Damage
+                            <br> Protection
+                        </p>
+                    </div>
+                    <div class="img-container">
+                        <picture>
+                            <img class="amazon-prime" src="./assests/images/icons/amazon-prime.png" alt="">
+                        </picture>
+                        <p class="img-content hideBig">
+                            Unlimited
+                            <br> calls
+                        </p>
+                    </div>
+
+                </div>
+
+            </div>
+        </section>
+
+        <section class="main-flow">
+            <div class="container">
+                <h2 class="main-heading">How Do We Help You Today?</h2>
+                <div class="items">
+                    <div class="item" data-item="newconnection">
+                        <i class="fa fa-plus-square" aria-hidden="true"></i>
+                        <p class="title">New Connection</p>
+                        <p class="content">Get a new Airtel Postpaid
+                            <br> number
+                        </p>
+                        <button class="btn">GET NOW</button>
+                    </div>
+                    <div class="item" data-item="newconnection">
+                        <i class="fa fa-simplybuilt" aria-hidden="true"></i>
+                        <p class="title">POST YOUR NUMBER</p>
+                        <p class="content">Change your existing non-Airtel
+                            <br> number to Airtel Postpaid</p>
+                        <button class="btn">SWITCH NOW</button>
+                    </div>
+                    <div class="item" data-item="newconnection">
+                        <i class="fa fa-calendar" aria-hidden="true"></i>
+                        <p class="title">PREPAID TO POSTPAID</p>
+                        <p class="content">Update your Airtel Prepaid to
+                            <br> Airtel Postpaid number</p>
+                        <button class="btn">UPGRADE NOW</button>
+                    </div>
+                    <div class="item" data-item="newconnection">
+                        <i class="fa fa-money" aria-hidden="true"></i>
+                        <p class="title">CORPORATE PLAN</p>
+                        <p class="content">If eligible, enjoy corporate plan
+                            <br> rates and benefit</p>
+                        <button class="btn">CORPORATE PLAN</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="info">
+            <div class="container">
+                <h2 class="heading">Want More from Your Airtel Postpaid?</h2>
+                <div class="items">
+                    <div class="box-item">
+                        <div class="box-heading">20% Savings</div>
+                        <p>on Family Bills</p>
+                    </div>
+                    <div class="box-item">
+                        <div class="box-heading">No Bill Shocks</div>
+                        <p>with Real Time Tracking</p>
+                    </div>
+                    <div class="box-item">
+                        <div class="box-heading">Affordable</div>
+                        <p>International Calling Plans</p>
+                    </div>
+                    <div class="box-item">
+                        <div class="box-heading">Entertainment</div>
+                        <p>with Free Movies & Music</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="terms">
+            <div class="container">
+                <h3>Why Choose Airtel as Your Postpaid Partner?</h3>
+                <div class="rows">
+                    <div class="row">
+                        <picture>
+                            <img id="speedImg" src="./assests/images/speed.png" alt="speed">
+                        </picture>
+                        <p>India’s Fastest Network 4th
+                            <br> time in a Row</p>
+                    </div>
+                    <div class="row">
+                        <picture>
+                            <img id="speedImg2" src="./assests/images/volte.png" alt="speed">
+                        </picture>
+                        <p>HD Voice Calls with Airtel
+                            <br> VoLTE</p>
+                    </div>
+                    <div class="row">
+                        <picture>
+                            <img id="speedImg3" src="./assests/images/dialer.png" alt="speed">
+                        </picture>
+                        <p>Instant Call Connect 3 Times
+                            <br> Faster than Normal Calls</p>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+
+        <section class="condition">
+            <div class="container">
+                <div class="tnc">
+                    <a href="https://www.airtel.in/mobile/terms-conditions" target="_blank">Terms and conditions apply.</a>&nbsp; | &nbsp;
+                    <a href="https://app.airtel.tv/primetnc.html" target="_blank">Amazon prime subscription T&C.</a>
+                </div>
+            </div>
+        </section>
+
+    </div> -->
+
+    <!-- <div class="hidesmall">
+        <div class="sitefooter">
+            <footer>
+                <div>
+                    <span class="scrolltotop">Back to top <i class="fas fa-arrow-up"></i></span>
+                    <ul>
+                        <li>
+                            <a href="">Media</a>
+                        </li>
+                        <li>
+                            <a href="">Careers</a>
+                        </li>
+                        <li>
+                            <a href="">About Airtel</a>
+                        </li>
+                        <li>
+                            <a href="">Brand</a>
+                        </li>
+                        <li>
+                            <a href="">Press Release</a>
+                        </li>
+                        <li>
+                            <a href="">Investor Support</a>
+                        </li>
+                        <li>
+                            <a href="">All Plans</a>
+                        </li>
+                    </ul>
+
+                    <ul>
+                        <li>
+                            <a href="">Quick Access</a>
+                        </li>
+                        <li>
+                            <a href="">Switch to Airtel</a>
+                        </li>
+                        <li>
+                            <a href="">myAirtel App</a>
+                        </li>
+                        <li>
+                            <a href="">Airtel Payments Bank</a>
+                        </li>
+                        <li>
+                            <a href="">Wynk</a>
+                        </li>
+                        <li>
+                            <a href="">Telecom Tariff</a>
+                        </li>
+                        <li>
+                            <a href="">Telecom Charter</a>
+                        </li>
+                        <li>
+                            <a href="">Buy Smartphone</a>
+                        </li>
+                        <li>
+                            <a href="">Partners</a>
+                        </li>
+
+                    </ul>
+
+                    <ul>
+                        <li>
+                            <a href="">New Connections</a>
+                        </li>
+                        <li>
+                            <a href="">Postpaid</a>
+                        </li>
+                        <li>
+                            <a href="">Broadband & Fixed Line</a>
+                        </li>
+                        <li>
+                            <a href="">Airtel DTH TV</a>
+                        </li>
+                        <li>
+                            <a href="">Airtel TV App</a>
+                        </li>
+                    </ul>
+
+                    <div>
+                        <span class="scrollToTop hideSmall">Back to top
+                            <i class="fa fa-long-arrow-up" aria-hidden="true"></i>
+                        </span>
+                        <div class="social">
+                            <span>
+                                <a href="">
+                                    <i class="fa fa-facebook-square" aria-hidden="true"></i>
+                                </a>
+                            </span>
+                            <span>
+                                <a href="">
+                                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                                </a>
+                            </span>
+                            <span>
+                                <a href="">
+                                    <i class="fa fa-youtube-play" aria-hidden="true"></i>
+                                </a>
+                            </span>
+                            <span>
+                                <a href="">
+                                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                                </a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+
+            </footer>
+            <div class="policy">
+                <div>
+                    <ul>
+                        <li><a href="">Important Alerts</a></li>
+                        <li><a href="">Privacy Policy</a></li>
+                        <li><a href="">Telemarketer Registration</a></li>
+                        <li><a href="">Do Not Disturb List</a></li>
+                        <li><a href="">Contact Us</a></li>
+                    </ul>
+                    <small>©2018 Airtel India. All Rights Reserved.</small>
+                </div>
+            </div>
+        </div>
+    </div> -->

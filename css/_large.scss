@@ -1,0 +1,35 @@
+.main-nav li a>span {
+    display: inline-block;
+}
+
+.navIconNavBar {
+    display: block;
+    margin-right: 40px;
+}
+
+.main-flow .container .items {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: auto;
+    justify-items: center;
+    grid-gap: 2rem;
+    width: 100%;
+    margin: 0px auto;
+}
+
+
+section.info .container .items {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: auto;
+    grid-gap: 15px;
+}
+
+//terms
+
+.container .rows {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto;
+    grid-gap: 15px;
+}
